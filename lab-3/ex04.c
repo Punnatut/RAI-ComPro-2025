@@ -35,4 +35,5 @@ int main()
     
     printf("%s, your average is %.2f. You got grade %c", n, avg, g);
     return 0;
+    }
 }
